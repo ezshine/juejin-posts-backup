@@ -1,3 +1,8 @@
+
+.DS_Store
+articles/
+package-lock.json
+
 # Logs
 logs
 *.log
