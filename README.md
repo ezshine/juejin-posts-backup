@@ -8,5 +8,5 @@
 git clone https://github.com/ezshine/juejin-posts-backup.git
 cd juejin-posts-backup
 npm install
-node index.js
+jjbackup
 ~~~

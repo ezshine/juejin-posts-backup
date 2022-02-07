@@ -1,0 +1,26 @@
+{
+  "name": "juejin-posts-backup",
+  "version": "1.0.0",
+  "description": "一键下载指定掘金用户的所有文章",
+  "bin": {
+    "jjbackup": "index.js"
+  },
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezshine/juejin-posts-backup.git"
+  },
+  "author": "ezshine",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezshine/juejin-posts-backup/issues"
+  },
+  "homepage": "https://github.com/ezshine/juejin-posts-backup#readme",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "inquirer": "^8.2.0",
+    "turndown": "^7.1.1"
+  }
+}
